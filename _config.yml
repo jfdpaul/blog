@@ -21,16 +21,16 @@
 title: Blog
 email: jfdpaul@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jonathan Fidelis Paul is a software developer and edutech enthusiast.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "git@github.com:jfdpaul" # the base hostname & protocol for your site, e.g. http://example.com
+  Jonathan Fidelis Paul is a software developer and edutech enthusiast
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://jfdpaul.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: # none
-github_username:  jfdpaul
+github_username: jfdpaul
 
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
