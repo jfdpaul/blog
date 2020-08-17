@@ -2,7 +2,7 @@
 layout: post
 title:  "Right tools for the right Job"
 categories: productivity
-date:   2020-07-11 18:00:00 +0530
+date:   2020-07-11 18:05:00 +0530
 ---
 ## Premise
 I cannot stress enough to tell you how important is it to have the right set of tools for the job. Let me try!
