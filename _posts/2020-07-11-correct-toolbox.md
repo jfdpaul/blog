@@ -4,26 +4,35 @@ title:  "Right tools for the right Job"
 categories: productivity
 date:   2020-07-11 18:00:00 +0530
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## Premise
+I cannot stress enough to tell you how important is it to have the right set of tools for the job. Let me try!
 
-Jekyll requires blog post files to be named according to the following format:
+Right from the simplest professions to the most high skilled ones, they all need you to have the right set of tools while on the job
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Imagine a painter with only one brush! A painter has different burshes for each stroke. A farmer has a sickle, a sweeper has a broom, an accountant has a balance sheet and a mountain climber has ropes.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+What I'm trying to say is, you need to equip yourself with the tools of the trade. These will enhance your productivity and reduce your effort.
 
-Jekyll also offers powerful support for code snippets:
+## What tools should I have as a Software Engineer ?
+As a software engineer one should start with a shallow understanding of the ecosystem of the work at hand.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I'll take web applications  as an example.
+- You should know how the web (of computers) works. This in itself is a huge topic. So start small
+- Understand server vs client (browsers and servers)
+- Understand database servers
+- Languages used to make websites/webapps possible
+- Clientside vs serverside programming
+- Security aspects
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## The tools in SE
+Once we understand this we need to develop softwares. You can use a text editor and type every character. Or use an IDE which not only automates repeated codes, but also aids you to improve your coding style and quality.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+For the database, have a client to interact with it graphically rather than opting for a CLI
+
+For source control, ensure you know the basic commands. Or you can use GUI for it too
+
+Try using dotenv to setup your necessary tools
+
+This habit of setting up your tools before approaching your work will at first seem to be painstakingly hard. But you can thank me later for the amount of time it will save you in future.
+
+I used to even automate opening of my IDEs and other tools on system startup
